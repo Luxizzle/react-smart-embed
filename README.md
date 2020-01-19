@@ -4,6 +4,20 @@ Suspense ready embed component.
 
 "Smart" as in it supports multiple platforms and is able to resolve the type of platform on its own.
 
+## Install
+
+Install using npm:
+
+```
+$ npm i react-smart-embed
+```
+
+Or install using yarn:
+
+```
+$ yarn add react-smart-embed
+```
+
 ## Usage
 
 ```js
