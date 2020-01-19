@@ -1,6 +1,8 @@
 import React from 'react';
 import pLocate, { Options as PLocateOptions } from 'p-locate';
 import { EmbedProps, PlatformList, Platform } from './types';
+// TODO: remove this
+// @ts-ignore
 import usePromise from 'react-promise-suspense';
 
 export { default as Gfycat } from './platforms/Gfycat';

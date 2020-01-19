@@ -45,7 +45,7 @@
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
     "p-locate": "^4.1.0",
-    "react-promise-suspense": "0.3.2",
+    "react-promise-suspense": "^0.3.2",
     "swr": "^0.1.16"
   }
 }
