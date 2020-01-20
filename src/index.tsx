@@ -11,6 +11,8 @@ export { default as ImgurGif } from './platforms/ImgurGif';
 export { default as RedditImage } from './platforms/RedditImage';
 export { default as DirectImage } from './platforms/DirectImage';
 
+export * from './types';
+
 const getSupportedPlatform = (
   src: string,
   platforms: PlatformList,
